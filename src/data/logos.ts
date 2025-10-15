@@ -107,6 +107,7 @@ export const logos = LogoCheck({
 	neon: { file: 'neon.svg', padding: '.2em' },
 	studiocms: { file: 'studiocms.svg', padding: '.25em' },
 	optimizely: { file: 'optimizely.svg', padding: '.2em' },
+	reactbricks: { file: 'reactbricks.svg', padding: '.2em' },
 });
 
 export type LogoKey = keyof typeof logos;
